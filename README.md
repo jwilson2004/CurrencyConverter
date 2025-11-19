@@ -3,7 +3,7 @@ A simple Python program which uses an API to calculate currency conversions base
 
 Go to https://freecurrencyapi.com to attain a free API key for converting.
 
-Create an .env file and paste in API_KEY=\<your_api_key\>
+Create an .env file and paste in `API_KEY=\<your_api_key\>`
 
 To run the program, open the terminal and navigate to the CurrencyConverter folder using `cd CurrencyConverter`.
 

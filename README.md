@@ -15,7 +15,7 @@ When prompted, enter the acronym of the currency you want to convert from.
 
 Enter the acronym of the currency you want to convert to.
 
-enter the amount you want to convert.
+Enter the amount you want to convert.
 
 You should see your output printed in the terminal.
 
